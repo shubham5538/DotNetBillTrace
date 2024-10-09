@@ -1,0 +1,391 @@
+C:\Users\ACER\Downloads\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfo.cs
+C:\Users\ACER\Downloads\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ACER\Downloads\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cache
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\appsettings.Development.json
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\appsettings.json
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\KotBot.exe
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\KotBot.deps.json
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\KotBot.runtimeconfig.json
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\DnsClient.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\SharpCompress.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Snappier.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\ZstdSharp.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.AssemblyReference.cache
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfoInputs.cache
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfo.cs
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.CoreCompileInputs.cache
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cs
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cache
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.build.json
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.development.json
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.KotBot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.build.KotBot.props
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KotBot.props
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KotBot.props
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.pack.json
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\scopedcss\bundle\KotBot.styles.css
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.Up2Date
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\refint\KotBot.dll
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\KotBot.genruntimeconfig.cache
+D:\KotBotOnline\KotBot\KotBot\obj\Debug\net8.0\ref\KotBot.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\appsettings.Development.json
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\appsettings.json
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\KotBot.exe
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\KotBot.deps.json
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\KotBot.runtimeconfig.json
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\DnsClient.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\SharpCompress.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Snappier.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\ZstdSharp.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.AssemblyReference.cache
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfoInputs.cache
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfo.cs
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.CoreCompileInputs.cache
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cs
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cache
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.build.json
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.development.json
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.KotBot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.build.KotBot.props
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KotBot.props
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KotBot.props
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.pack.json
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\scopedcss\bundle\KotBot.styles.css
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.Up2Date
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\refint\KotBot.dll
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\KotBot.genruntimeconfig.cache
+D:\KotBotOnline\KotBot 30092024 Printer Error Code\KotBot\KotBot\obj\Debug\net8.0\ref\KotBot.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\appsettings.Development.json
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\appsettings.json
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\KotBot.exe
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\KotBot.deps.json
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\KotBot.runtimeconfig.json
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\DnsClient.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\SharpCompress.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Snappier.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\ZstdSharp.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.AssemblyReference.cache
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfoInputs.cache
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfo.cs
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.CoreCompileInputs.cache
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cs
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cache
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.build.json
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.development.json
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.KotBot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.build.KotBot.props
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KotBot.props
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KotBot.props
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.pack.json
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\scopedcss\bundle\KotBot.styles.css
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.Up2Date
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\refint\KotBot.dll
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\KotBot.genruntimeconfig.cache
+D:\KotBotOnline\KotBot05102024PrintercodeTry\KotBot\KotBot\obj\Debug\net8.0\ref\KotBot.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\appsettings.Development.json
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\appsettings.json
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\KotBot.exe
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\KotBot.deps.json
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\KotBot.runtimeconfig.json
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\DnsClient.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\SharpCompress.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Snappier.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\ZstdSharp.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.AssemblyReference.cache
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfoInputs.cache
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfo.cs
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.CoreCompileInputs.cache
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cs
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cache
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.build.json
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.development.json
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.KotBot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.build.KotBot.props
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KotBot.props
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KotBot.props
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.pack.json
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\scopedcss\bundle\KotBot.styles.css
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.Up2Date
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\refint\KotBot.dll
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\KotBot.genruntimeconfig.cache
+D:\KotBotOnline\KotBot06102024Printercode\KotBot\KotBot\obj\Debug\net8.0\ref\KotBot.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\appsettings.Development.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\appsettings.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\KotBot.exe
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\KotBot.deps.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\KotBot.runtimeconfig.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\DnsClient.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\SharpCompress.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Snappier.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\ZstdSharp.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.AssemblyReference.cache
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfoInputs.cache
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfo.cs
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.CoreCompileInputs.cache
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cs
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cache
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.build.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.development.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.KotBot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.build.KotBot.props
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KotBot.props
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KotBot.props
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.pack.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\scopedcss\bundle\KotBot.styles.css
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.Up2Date
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\refint\KotBot.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\KotBot.genruntimeconfig.cache
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone\KotBot\KotBot\obj\Debug\net8.0\ref\KotBot.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\appsettings.Development.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\appsettings.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\KotBot.exe
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\KotBot.deps.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\KotBot.runtimeconfig.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\DnsClient.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\SharpCompress.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Snappier.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\ZstdSharp.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.AssemblyReference.cache
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfoInputs.cache
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.AssemblyInfo.cs
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.CoreCompileInputs.cache
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cs
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.MvcApplicationPartsAssemblyInfo.cache
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.build.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.development.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.KotBot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.build.KotBot.props
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KotBot.props
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KotBot.props
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\staticwebassets.pack.json
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\scopedcss\bundle\KotBot.styles.css
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.csproj.Up2Date
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\refint\KotBot.dll
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.pdb
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\KotBot.genruntimeconfig.cache
+D:\KotBotOnline\KotBot07102024ShubhamWorkingDone - Copy\KotBot\KotBot\obj\Debug\net8.0\ref\KotBot.dll
